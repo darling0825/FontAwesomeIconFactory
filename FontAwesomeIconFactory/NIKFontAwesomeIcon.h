@@ -675,4 +675,27 @@ typedef NS_ENUM(UniChar, NIKFontAwesomeIcon) {
     NIKFontAwesomeIconYoutube = 0xf167,
     NIKFontAwesomeIconYoutubePlay = 0xf16a,
     NIKFontAwesomeIconYoutubeSquare = 0xf166,
+    /*
+     4.5 -> 20
+     */
+    NIKFontAwesomeIconRedditAlien = 0xf281,
+    NIKFontAwesomeIconEdge = 0xf282,
+    NIKFontAwesomeIconCreditCardAlt = 0xf283,
+    NIKFontAwesomeIconCodiepie = 0xf284,
+    NIKFontAwesomeIconModx = 0xf285,
+    NIKFontAwesomeIconFortAwesome = 0xf286,
+    NIKFontAwesomeIconUsb = 0xf287,
+    NIKFontAwesomeIconProduct = 0xf288,
+    NIKFontAwesomeIconMixcloud = 0xf289,
+    NIKFontAwesomeIconScribd = 0xf28a,
+    NIKFontAwesomeIconPauseCircle = 0xf28b,
+    NIKFontAwesomeIconPauseCircleO = 0xf28c,
+    NIKFontAwesomeIconStopCircle = 0xf28d,
+    NIKFontAwesomeIconStopCircleO = 0xf28e,
+    NIKFontAwesomeIconShoppingBag = 0xf290,
+    NIKFontAwesomeIconShoppingBasket = 0xf291,
+    NIKFontAwesomeIconHashtag = 0xf292,
+    NIKFontAwesomeIconBluetooth = 0xf293,
+    NIKFontAwesomeIconBluetoothB = 0xf294,
+    NIKFontAwesomeIconPercent = 0xf295,
 };
